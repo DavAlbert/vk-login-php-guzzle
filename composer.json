@@ -1,0 +1,16 @@
+{
+    "name": "albert/vk-login-php",
+    "description": "Login with VK",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Garkolym",
+            "email": "garkolym@googlemail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "vlucas/phpdotenv": "^5.2",
+      "ext-json": "*"
+    }
+}
